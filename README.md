@@ -1,2 +1,3 @@
 # research-env
-Python virtual environments for research projects
+
+Python virtual environment files for the research projects.
