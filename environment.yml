@@ -34,6 +34,7 @@ dependencies:
   - backoff=1.11.1=pyhd8ed1ab_0
   - backports=1.0=py_2
   - backports.functools_lru_cache=1.6.4=pyhd8ed1ab_0
+  - beautifulsoup4=4.10.0=pyh06a4308_0
   - black=21.9b0=pyhd8ed1ab_0
   - blas=2.111=mkl
   - blas-devel=3.9.0=11_win64_mkl
@@ -48,10 +49,10 @@ dependencies:
   - brotlipy=0.7.0=py38h294d835_1001
   - bzip2=1.0.8=h8ffe710_4
   - c-ares=1.17.2=h8ffe710_0
-  - ca-certificates=2021.5.30=h5b45459_0
+  - ca-certificates=2021.7.5=haa95532_1
   - cachetools=4.2.2=pyhd8ed1ab_0
   - catboost=0.26.1=py38haa244fe_0
-  - certifi=2021.5.30=py38haa244fe_0
+  - certifi=2021.5.30=py38haa95532_0
   - cffi=1.14.6=py38hd8c33c5_1
   - cfgv=3.3.1=pyhd8ed1ab_0
   - cfitsio=3.470=h0af3d06_7
@@ -230,7 +231,7 @@ dependencies:
   - opencv=4.5.3=py38haa244fe_1
   - openjpeg=2.4.0=hb211442_1
   - openpyxl=3.0.8=pyhd8ed1ab_0
-  - openssl=1.1.1l=h8ffe710_0
+  - openssl=1.1.1l=h2bbff1b_0
   - opt_einsum=3.3.0=pyhd8ed1ab_1
   - orderedmultidict=1.0.1=py_0
   - packaging=21.0=pyhd8ed1ab_0
@@ -326,6 +327,7 @@ dependencies:
   - six=1.16.0=pyh6c4a22f_0
   - snappy=1.1.8=ha925a31_3
   - sniffio=1.2.0=py38haa244fe_1
+  - soupsieve=2.2.1=pyhd3eb1b0_0
   - sqlite=3.36.0=h8ffe710_1
   - statsmodels=0.12.2=py38h6f4d8f0_0
   - stringcase=1.2.0=py_0

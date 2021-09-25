@@ -12,6 +12,7 @@ dependencies:
   - altair
   - altair_saver
   - altair_viewer
+  - beautifulsoup4
   - black
   - bokeh
   - boto3
@@ -32,6 +33,7 @@ dependencies:
   - jupyter_contrib_nbextensions
   - jupyterlab
   - lightgbm
+  - lxml
   - matplotlib
   - mypy
   - networkx
