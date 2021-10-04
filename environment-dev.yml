@@ -17,7 +17,9 @@ dependencies:
   - bokeh
   - boto3
   - catboost
+  - chart-studio
   - click
+  - cufflinks-py
   - dash
   - datapane>=0.10.0
   - deap
