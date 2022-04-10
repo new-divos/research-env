@@ -4,9 +4,9 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.8.*
-  - cudatoolkit=10.1
-  - cudnn=7.6
+  - python=3.9.*
+  - cudatoolkit=11.3
+  - cudnn=8.*
   - h5py
   - hdf5
   - altair
@@ -42,6 +42,7 @@ dependencies:
   - networkx
   - nltk
   - numpy
+  - odfpy
   - opencv
   - openpyxl
   - pandas
@@ -66,7 +67,7 @@ dependencies:
   - statsmodels
   - sympy
   - tabulate
-  - tensorflow-gpu=2.3.*
+  - tensorflow-gpu>2.3
   - tensorboard
   - torchvision
   - tqdm
